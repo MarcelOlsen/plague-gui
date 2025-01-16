@@ -17,7 +17,7 @@ A Java Swing-based game where players defend the world against a spreading virus
 ### Prerequisites
 
 - Java 17 or higher
-- (Gradle build tool)[https://gradle.org/install/]
+- [Gradle build tool](https://gradle.org/install/)
 
 ### Installation
 
